@@ -1,22 +1,23 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        res = 0
-        memo = {}
-        def dfs(i, cur_sum, can_buy, transaction):
-            if transaction == 0 or i==len(prices):
-                return 0
-            if (i,can_buy,transaction) in memo:
-                return memo[(i,can_buy,transaction)]
-            
-            if can_buy:
-                buy = dfs(i+1, cur_sum, False, transaction) - prices[i]
-                cool = dfs(i+1, cur_sum, True, transaction)
-                memo[(i,can_buy,transaction)] = max(buy,cool)
-                return memo[(i,can_buy,transaction)]
-            else:
-                sell = dfs(i+1, cur_sum, True, transaction-1) + prices[i]
-                cool = dfs(i+1, cur_sum, False, transaction)
-                memo[(i,can_buy,transaction)] = max(sell,cool)
-                return memo[(i,can_buy,transaction)]
+        left_profits = []
+        cur_min = prices[0]
+        max_profit_so_far = 0
+        for price in prices:
+            max_profit_so_far = max(max_profit_so_far, price-cur_min)
+            left_profits.append(max_profit_so_far)
+            cur_min = min(cur_min,price)
 
-        return dfs(0,0,True,2)
+        right_profits = [0]*len(prices)
+        cur_max = prices[-1]
+        max_profit_so_far = 0
+        for i in range(len(prices)-1,-1,-1):
+            price = prices[i]
+            max_profit_so_far = max(max_profit_so_far, cur_max-price)
+            right_profits[i] = max_profit_so_far
+            cur_max = max(cur_max,price)
+
+        res = 0
+        for i in range(len(prices)):
+            res = max(res,left_profits[i]+right_profits[i])
+        return res
