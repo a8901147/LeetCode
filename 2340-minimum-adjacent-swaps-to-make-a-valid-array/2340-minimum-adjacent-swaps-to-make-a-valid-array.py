@@ -10,15 +10,10 @@ class Solution:
             if nums[curIndex] < nums[minIndex]:
                 minIndex = curIndex
         
-        res = 0
+        
         if minIndex == maxIndex:
             return 0
-            
-        elif minIndex < maxIndex:
-            res += minIndex
-            res += len(nums)-1-maxIndex
-        else:
-            res += minIndex
-            res += len(nums)-1-maxIndex
-            res -= 1
-        return res
+        
+        res = minIndex + len(nums)-1-maxIndex
+
+        return res-1 if minIndex > maxIndex else res
