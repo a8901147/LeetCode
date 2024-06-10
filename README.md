@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/a8901147/LeetCode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/a8901147/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0227-basic-calculator-ii](https://github.com/a8901147/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0567-permutation-in-string](https://github.com/a8901147/LeetCode/tree/master/0567-permutation-in-string) |
@@ -30,3 +31,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/a8901147/LeetCode/tree/master/0227-basic-calculator-ii) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/a8901147/LeetCode/tree/master/0022-generate-parentheses) |
+# Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/a8901147/LeetCode/tree/master/0022-generate-parentheses) |
