@@ -10,7 +10,7 @@ class Solution:
                 res.append(part[:])
                 return
 
-            if l > r:
+            if r+1<=n and l > r:
                 dfs(l,r+1,part+")")
 
             if l+1<=n:
