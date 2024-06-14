@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/a8901147/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/a8901147/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0883-car-fleet](https://github.com/a8901147/LeetCode/tree/master/0883-car-fleet) |
 # Sorting
@@ -56,4 +57,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/a8901147/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/a8901147/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
