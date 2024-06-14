@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/a8901147/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0227-basic-calculator-ii](https://github.com/a8901147/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0567-permutation-in-string](https://github.com/a8901147/LeetCode/tree/master/0567-permutation-in-string) |
+| [1397-search-suggestions-system](https://github.com/a8901147/LeetCode/tree/master/1397-search-suggestions-system) |
 # Sliding Window
 |  |
 | ------- |
@@ -46,10 +47,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/a8901147/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/a8901147/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0883-car-fleet](https://github.com/a8901147/LeetCode/tree/master/0883-car-fleet) |
+| [1397-search-suggestions-system](https://github.com/a8901147/LeetCode/tree/master/1397-search-suggestions-system) |
 # Sorting
 |  |
 | ------- |
 | [0883-car-fleet](https://github.com/a8901147/LeetCode/tree/master/0883-car-fleet) |
+| [1397-search-suggestions-system](https://github.com/a8901147/LeetCode/tree/master/1397-search-suggestions-system) |
 # Monotonic Stack
 |  |
 | ------- |
@@ -59,3 +62,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/a8901147/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/a8901147/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1397-search-suggestions-system](https://github.com/a8901147/LeetCode/tree/master/1397-search-suggestions-system) |
+# Trie
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/a8901147/LeetCode/tree/master/1397-search-suggestions-system) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/a8901147/LeetCode/tree/master/1397-search-suggestions-system) |
