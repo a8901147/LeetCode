@@ -4,8 +4,6 @@ class Solution:
         res = []
         temp = products
         for i in range(len(searchWord)):
-
-
             part = []
             for product in temp:
                 if i<len(product) and searchWord[i] == product[i]:
