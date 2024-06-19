@@ -71,3 +71,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1397-search-suggestions-system](https://github.com/a8901147/LeetCode/tree/master/1397-search-suggestions-system) |
+# Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/a8901147/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+# Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/a8901147/LeetCode/tree/master/0021-merge-two-sorted-lists) |
