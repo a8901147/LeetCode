@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/a8901147/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/a8901147/LeetCode/tree/master/0567-permutation-in-string) |
 # String
 |  |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/a8901147/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/a8901147/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/a8901147/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0883-car-fleet](https://github.com/a8901147/LeetCode/tree/master/0883-car-fleet) |
 | [1397-search-suggestions-system](https://github.com/a8901147/LeetCode/tree/master/1397-search-suggestions-system) |
 # Sorting
@@ -63,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/a8901147/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/a8901147/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/a8901147/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1397-search-suggestions-system](https://github.com/a8901147/LeetCode/tree/master/1397-search-suggestions-system) |
 # Trie
 |  |
@@ -82,3 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/a8901147/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/a8901147/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/a8901147/LeetCode/tree/master/0287-find-the-duplicate-number) |
