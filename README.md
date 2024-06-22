@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/a8901147/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0266-palindrome-permutation](https://github.com/a8901147/LeetCode/tree/master/0266-palindrome-permutation) |
 | [0567-permutation-in-string](https://github.com/a8901147/LeetCode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/a8901147/LeetCode/tree/master/0645-set-mismatch) |
 # Two Pointers
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/a8901147/LeetCode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/a8901147/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0227-basic-calculator-ii](https://github.com/a8901147/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0266-palindrome-permutation](https://github.com/a8901147/LeetCode/tree/master/0266-palindrome-permutation) |
 | [0567-permutation-in-string](https://github.com/a8901147/LeetCode/tree/master/0567-permutation-in-string) |
 | [1397-search-suggestions-system](https://github.com/a8901147/LeetCode/tree/master/1397-search-suggestions-system) |
 # Sliding Window
@@ -91,5 +93,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Bit Manipulation
 |  |
 | ------- |
+| [0266-palindrome-permutation](https://github.com/a8901147/LeetCode/tree/master/0266-palindrome-permutation) |
 | [0287-find-the-duplicate-number](https://github.com/a8901147/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/a8901147/LeetCode/tree/master/0645-set-mismatch) |
