@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/a8901147/LeetCode/tree/master/0002-add-two-numbers) |
 | [0227-basic-calculator-ii](https://github.com/a8901147/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/a8901147/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 # Stack
 |  |
 | ------- |
@@ -95,4 +96,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0266-palindrome-permutation](https://github.com/a8901147/LeetCode/tree/master/0266-palindrome-permutation) |
 | [0287-find-the-duplicate-number](https://github.com/a8901147/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/a8901147/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/a8901147/LeetCode/tree/master/0645-set-mismatch) |
