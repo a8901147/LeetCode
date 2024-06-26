@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/a8901147/LeetCode/tree/master/0022-generate-parentheses) |
+| [0747-min-cost-climbing-stairs](https://github.com/a8901147/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 # Backtracking
 |  |
 | ------- |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/a8901147/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/a8901147/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/a8901147/LeetCode/tree/master/0645-set-mismatch) |
+| [0747-min-cost-climbing-stairs](https://github.com/a8901147/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0883-car-fleet](https://github.com/a8901147/LeetCode/tree/master/0883-car-fleet) |
 | [1397-search-suggestions-system](https://github.com/a8901147/LeetCode/tree/master/1397-search-suggestions-system) |
 # Sorting
