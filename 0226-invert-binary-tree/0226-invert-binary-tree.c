@@ -6,16 +6,22 @@
  *     struct TreeNode *right;
  * };
  */
+void swap(struct TreeNode** a, struct TreeNode** b){
+    struct TreeNode* temp = *a;
+    *a = *b;
+    *b = temp;
+}
 
 void dfs(struct TreeNode* node){
     if (!node){
         return;
     }
 
-    struct TreeNode* temp;
-    temp = node->left;
-    node->left = node->right;
-    node->right = temp;
+    swap(&node->left,&node->right);
+    // struct TreeNode* temp;
+    // temp = node->left;
+    // node->left = node->right;
+    // node->right = temp;
 
     dfs(node->left);
     dfs(node->right);
