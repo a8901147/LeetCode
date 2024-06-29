@@ -122,4 +122,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/a8901147/LeetCode/tree/master/0226-invert-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/a8901147/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/a8901147/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
