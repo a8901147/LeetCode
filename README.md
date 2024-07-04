@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/a8901147/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/a8901147/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/a8901147/LeetCode/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
@@ -149,4 +150,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/a8901147/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/a8901147/LeetCode/tree/master/0322-coin-change) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/a8901147/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
