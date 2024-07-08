@@ -161,9 +161,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/a8901147/LeetCode/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/a8901147/LeetCode/tree/master/0338-counting-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/a8901147/LeetCode/tree/master/0338-counting-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/a8901147/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1839-decode-xored-array](https://github.com/a8901147/LeetCode/tree/master/1839-decode-xored-array) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/a8901147/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
