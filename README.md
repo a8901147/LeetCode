@@ -164,7 +164,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [1610-xor-operation-in-an-array](https://github.com/a8901147/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1839-decode-xored-array](https://github.com/a8901147/LeetCode/tree/master/1839-decode-xored-array) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/a8901147/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3472-bitwise-or-of-adjacent-elements](https://github.com/a8901147/LeetCode/tree/master/3472-bitwise-or-of-adjacent-elements) |
+## Math
+|  |
+| ------- |
+| [1610-xor-operation-in-an-array](https://github.com/a8901147/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
