@@ -154,8 +154,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/a8901147/LeetCode/tree/master/0322-coin-change) |
+| [3472-bitwise-or-of-adjacent-elements](https://github.com/a8901147/LeetCode/tree/master/3472-bitwise-or-of-adjacent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/a8901147/LeetCode/tree/master/0322-coin-change) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3472-bitwise-or-of-adjacent-elements](https://github.com/a8901147/LeetCode/tree/master/3472-bitwise-or-of-adjacent-elements) |
 <!---LeetCode Topics End-->
