@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/a8901147/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0322-coin-change](https://github.com/a8901147/LeetCode/tree/master/0322-coin-change) |
 | [1839-decode-xored-array](https://github.com/a8901147/LeetCode/tree/master/1839-decode-xored-array) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/a8901147/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
@@ -189,4 +190,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/a8901147/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/a8901147/LeetCode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
